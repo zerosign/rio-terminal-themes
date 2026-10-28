@@ -1,0 +1,102 @@
+# Black OLED Theme for Rio Terminal
+# Minimalist true black background with Vivid Blue cursor and grayscale colors
+
+[colors]
+# Core UI - Pure OLED Black & Clean Contrast
+background = "#000000"
+foreground = "#EDEDED"
+cursor = "#FFFFFF"
+vi-cursor = "#888888"
+
+bar = "#2b2d42"          # Slate navy gelap
+tabs = "#8d99ae"         # Inactive tab
+tabs-active = "#ffffff"  # Teks aktif putih solid
+split = "#c2c8f6"        # Aksen warna lavender aslimu dipindah ke garis split
+
+# Selection
+selection-foreground = "#000000"
+selection-background = "#FFFFFF"
+
+# Search & Hints
+search-match-background = "#333333"
+search-match-foreground = "#FFFFFF"
+search-focused-match-background = "#666666"
+search-focused-match-foreground = "#000000"
+hint-background = "#222222"
+hint-foreground = "#CCCCCC"
+
+# Regular ANSI Colors (Muted monochrome / low-saturation scale)
+black = "#1C1C1C"
+red = "#E06C75"
+green = "#98C379"
+yellow = "#E5C07B"
+blue = "#61AFEF"
+magenta = "#C678DD"
+cyan = "#56B6C2"
+white = "#CCCCCC"
+
+# Dim Colors (Deep Charcoal & Ash)
+dim-black = "#0A0A0A"
+dim-red = "#7F3F44"
+dim-green = "#556E43"
+dim-yellow = "#7D6943"
+dim-blue = "#365F82"
+dim-magenta = "#6D437A"
+dim-cyan = "#31646B"
+dim-white = "#666666"
+dim-foreground = "#777777"
+
+# Light Colors (High-contrast Brights & Crisp White)
+light-black = "#444444"
+light-red = "#FF7B86"
+light-green = "#B1E58D"
+light-yellow = "#FFE090"
+light-blue = "#75C7FF"
+light-magenta = "#E293FC"
+light-cyan = "#6CE3F2"
+light-white = "#FFFFFF"
+light-foreground = "#FFFFFF"
+
+# [colors]
+# background = '#000000'
+# foreground = '#ffffff'
+# cursor = '#00afff'
+# vi-cursor = '#ffffff'
+# selection-background = '#333333'
+# selection-foreground = '#ffffff'
+
+# # ANSI Colors
+# black = '#000000'
+# red = '#ff5f5f'
+# green = '#00af5f'
+# yellow = '#ffcc00'
+# blue = '#00afff'
+# magenta = '#af87ff'
+# cyan = '#88daf2'
+# white = '#eeeeee'
+
+# # Bright Colors
+# light-black = '#666666'
+# light-red = '#ff5f5f'
+# light-green = '#00af5f'
+# light-yellow = '#ffcc00'
+# light-blue = '#00afff'
+# light-magenta = '#af87ff'
+# light-cyan = '#88daf2'
+# light-white = '#ffffff'
+
+
+# # Tab bar background and items
+# bar = "#000000"
+# tabs = "#111111"
+# tabs-active = "#000000"
+
+# tabs-active-highlight = "#00afff"
+# # Tab text styling
+# [colors.tabs]
+# background = "#111111"
+# foreground = "#666666"
+
+# [colors.tabs-active]
+# background = "#000000"
+# foreground = "#ffffff"
